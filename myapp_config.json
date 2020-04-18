@@ -1,0 +1,10 @@
+{
+    "uid" : "serverjs",
+    "appened": true,
+    "watch": true,
+    "script": "server.js",
+    "sourceDir": "/home/user/prod/03.npm_Deploy",
+    "logFile": "/home/user/.forever/forever.log",
+    "outFile": "/home/user/.forever/out.log",
+    "errFile": "/home/user/.forever/err.log"
+}
