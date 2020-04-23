@@ -1,6 +1,6 @@
 {
   "name": "node-todo",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "Simple todo application.",
   "main": "server.js",
   "author": "Scotch",
